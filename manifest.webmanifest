@@ -2,8 +2,8 @@
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "standalone",
-    "scope": "/inde.html",
-    "start_url": "/https://github.com/IgorVitorio/site-dados-metereologicos",
+    "scope": "/index.html",
+    "start_url": "/https://igorvitorio.github.io/site-dados-metereologicos/",
     "name": "Dados meteorol\u00f3gicos",
     "short_name": "Dados meteorol\u00f3gicos",
     "icons": [
